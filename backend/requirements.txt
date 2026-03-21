@@ -1,0 +1,16 @@
+flask
+flask_cors
+flask_sqlalchemy
+flask-bcrypt
+pyjwt
+python-dotenv
+
+# OCR
+easyocr
+pdf2image
+
+#langchain
+langchain
+langchain-openai
+langchain-community
+langchain-core

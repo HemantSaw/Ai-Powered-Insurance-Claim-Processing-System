@@ -1,0 +1,20 @@
+.navbar {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin: 0;
+  height: 60px;
+  background: #222;
+  color: white;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar .user{
+  padding: 1rem;
+}
+.navbar .logout{
+  margin-right: 50px;
+}
